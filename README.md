@@ -1,8 +1,12 @@
-# itasca-navion-23J
+# Itasca Navion 23J "The Ivory Tower"
 
 This isn't a code repository.
 
-I've gotten so used to github issues I'm going to use them to plan work on the RV.
+It's for tracking work on the RV. I'm a programmer so this tool is low-friction for me, and it turns out to be pretty well suited to this task.
+
+Some of the issues in this are general, but most would apply to anybody who owns an Itasca Navion or Winnebago View RV.
+
+If you're reading this in the future I hope it's helpful to you with your RV. If you're reading this and there is an open issue you know something about, please chime in, I'd love that.
 
 ![Navion 23J](https://cloud.githubusercontent.com/assets/548809/15580313/08733dce-231d-11e6-92be-051a978b7844.JPG)
 
