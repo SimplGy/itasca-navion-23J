@@ -10,6 +10,13 @@ If you're reading this in the future I hope it's helpful to you with your RV. If
 
 ![Navion 23J](https://cloud.githubusercontent.com/assets/548809/15580313/08733dce-231d-11e6-92be-051a978b7844.JPG)
 
+### Online Resources:
+
+* [viewnavionwiki.com](http://viewnavionwiki.com)
+* [facebook group](https://www.facebook.com/groups/2254528358/)
+* [yahoo group](https://groups.yahoo.com/neo/groups/View-Navion/info)
+* [sprinter-forum navion subgroup](http://sprinter-source.com/forum/forumdisplay.php?f=10)
+
 ### Things to learn:
 
 * Does the engine battery charge the house? How about when that main relay is off?
